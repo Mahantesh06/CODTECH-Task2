@@ -1,0 +1,11 @@
+// The code used in this project for the static website is :
+
+<html>
+<head>
+<h1 style="color:white">This is a static website from google Cloud Storage</h1>
+</head>
+<body style="background:black;">
+<h1 style="color:Red">Hello!</h1>
+<h1 style="color:Orange">Hello!</h1>
+<h1 style="color:Yellow">Hello!</h1>
+</html>
